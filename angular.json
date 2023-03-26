@@ -315,5 +315,7 @@
       }
     }
   },
-  "defaultProject": "my-third-app"
+  "cli": {
+    "analytics": "c6f4bb18-b12e-4051-84aa-1f9d999ca371"
+  }
 }
